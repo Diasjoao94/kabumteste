@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60d2a0b9-2405-4695-b886-6328343f00bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a6SPLjSxxRfQguAUL8POe3g9Ag" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Flask server.Flask">
+    <configuration name="python" type="PythonConfigurationType" factoryName="Python">
+      <module name="Kabum" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../Python/v3_CRUD com dados em memoria/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask" type="Python.FlaskServer" nameIsGenerated="true">
+      <option name="flaskDebug" value="true" />
+      <module name="Kabum" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../Python/v92_Um Site para Muitos Hoteis numa relacao de Composicao/ambvir/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.Flask" />
+      <item itemvalue="Python.python" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60d2a0b9-2405-4695-b886-6328343f00bf" name="Default Changelist" comment="" />
+      <created>1586054524695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586054524695</updated>
+      <workItem from="1586054534267" duration="9000" />
+      <workItem from="1586058561594" duration="642000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="109" key="#Flask" timestamp="1586059035383">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="448" y="109" key="#Flask/1440.23.1366.745/41.23.1399.877@41.23.1399.877" timestamp="1586059035383" />
+    <state x="203" y="140" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586059130073">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="203" y="140" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1366.745/41.23.1399.877@41.23.1399.877" timestamp="1586059130073" />
+    <state width="1326" height="188" key="GridCell.Tab.0.bottom" timestamp="1586059213899">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1326" height="188" key="GridCell.Tab.0.bottom/1440.23.1366.745/41.23.1399.877@41.23.1399.877" timestamp="1586059213899" />
+    <state width="1326" height="188" key="GridCell.Tab.0.center" timestamp="1586059213897">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1326" height="188" key="GridCell.Tab.0.center/1440.23.1366.745/41.23.1399.877@41.23.1399.877" timestamp="1586059213897" />
+    <state width="1326" height="188" key="GridCell.Tab.0.left" timestamp="1586059213896">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1326" height="188" key="GridCell.Tab.0.left/1440.23.1366.745/41.23.1399.877@41.23.1399.877" timestamp="1586059213896" />
+    <state width="1326" height="188" key="GridCell.Tab.0.right" timestamp="1586059213898">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1326" height="188" key="GridCell.Tab.0.right/1440.23.1366.745/41.23.1399.877@41.23.1399.877" timestamp="1586059213898" />
+    <state x="248" y="117" key="SettingsEditor" timestamp="1586059073161">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="248" y="117" key="SettingsEditor/1440.23.1366.745/41.23.1399.877@41.23.1399.877" timestamp="1586059073161" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kabum$Flask.coverage" NAME="Flask Coverage Results" MODIFIED="1586059197844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Kabum$python.coverage" NAME="python Coverage Results" MODIFIED="1586059131959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0593ae65-f610-4efa-886f-2631399690bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="banco" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aAhjDxf8dD0hp0mq4g6QBqwxTn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="untitled1" type="Python.FlaskServer">
+      <module name="untitled1" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0593ae65-f610-4efa-886f-2631399690bc" name="Default Changelist" comment="" />
+      <created>1586184439101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586184439101</updated>
+      <workItem from="1586184486215" duration="19170000" />
+      <workItem from="1586207814321" duration="66000" />
+      <workItem from="1586210519583" duration="6000" />
+      <workItem from="1586211182965" duration="7931000" />
+      <workItem from="1586222310385" duration="858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="127" key="#Inspections" timestamp="1586197100944">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="339" y="127" key="#Inspections/1440.23.1366.745/43.23.1397.877@43.23.1397.877" timestamp="1586197100944" />
+    <state x="339" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586201748516">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="339" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1366.745/43.23.1397.877@43.23.1397.877" timestamp="1586201748516" />
+    <state width="1359" height="230" key="GridCell.Tab.0.bottom" timestamp="1586184649300">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1359" height="230" key="GridCell.Tab.0.bottom/1440.23.1366.745/39.23.1401.877@39.23.1401.877" timestamp="1586184649300" />
+    <state width="1359" height="230" key="GridCell.Tab.0.center" timestamp="1586184649298">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1359" height="230" key="GridCell.Tab.0.center/1440.23.1366.745/39.23.1401.877@39.23.1401.877" timestamp="1586184649298" />
+    <state width="1359" height="230" key="GridCell.Tab.0.left" timestamp="1586184649297">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1359" height="230" key="GridCell.Tab.0.left/1440.23.1366.745/39.23.1401.877@39.23.1401.877" timestamp="1586184649297" />
+    <state width="1359" height="230" key="GridCell.Tab.0.right" timestamp="1586184649299">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state width="1359" height="230" key="GridCell.Tab.0.right/1440.23.1366.745/39.23.1401.877@39.23.1401.877" timestamp="1586184649299" />
+    <state width="234" height="457" key="HiddenNamespacesPopup" timestamp="1586202044087">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state width="234" height="457" key="HiddenNamespacesPopup/1440.23.1366.745/43.23.1397.877@43.23.1397.877" timestamp="1586202044087" />
+    <state x="254" y="100" key="SettingsEditor" timestamp="1586222925298">
+      <screen x="46" y="23" width="1394" height="877" />
+    </state>
+    <state x="254" y="100" key="SettingsEditor/1440.23.1366.745/46.23.1394.877@46.23.1394.877" timestamp="1586222925298" />
+    <state x="1490" y="23" width="1020" height="602" key="dock-window-1" timestamp="1586205141064">
+      <screen x="1440" y="23" width="1366" height="745" />
+    </state>
+    <state x="1490" y="23" width="1020" height="602" key="dock-window-1/1440.23.1366.745/43.23.1397.877@43.23.1397.877" timestamp="1586205141064" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled1$untitled1.coverage" NAME="untitled1 Coverage Results" MODIFIED="1586184637806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
